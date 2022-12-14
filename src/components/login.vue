@@ -3,7 +3,7 @@
         <div class="w-9/12  bg-slate-600 bottom-0">
             <div class="absolute bottom-5 pl-20 ">
                 <!-- edit img -->
-                <img class="w-72 h-40 " src="./assets/logoipsum-288 1.svg" alt="">
+                <!-- <img class="w-72 h-40 " src="./assets/logoipsum-288 1.svg" alt=""> -->
             </div>
         </div>
         <div class="w-3/5 bg-white">
