@@ -16,11 +16,11 @@
                <div class="justify-end">
             <div class="flex flex-row pl-56 gap-x-6 pt-4 text-xl">
                     <!-- edit -->
-                    <img src="./assets/Vector edit.svg" alt="" class="w-6 h-6">
+                    <!-- <img src="./assets/Vector edit.svg" alt="" class="w-6 h-6"> -->
                    <!-- read -->
-                   <img src="./assets/Vector read.svg" alt="" class="w-6 h-6">
+                   <!-- <img src="./assets/Vector read.svg" alt="" class="w-6 h-6"> -->
                   <!-- delete -->
-                    <img src="./assets/Vector delete.svg" alt="" class="w-6 h-6">
+                    <!-- <img src="./assets/Vector delete.svg" alt="" class="w-6 h-6"> -->
             </div>
             </div>
             </div>

@@ -33,11 +33,11 @@
         </div>
       </a>
       <!-- rectangle5 -->
-      <a href="https://drive.google.com/file/d/1REBZkuXSnW_LZ6a6nrK4uiM0joC-RqHh/view?usp=share_link" target="_blank">
+      <!-- <a href="https://drive.google.com/file/d/1REBZkuXSnW_LZ6a6nrK4uiM0joC-RqHh/view?usp=share_link" target="_blank">
         <div class="w-72 h-72 bg-slate-700 rounded-lg overflow-hidden">
-          <img class="object-cover" src="./assets/ilus1.JPG" alt="">
+          <img class="object-cover" src="./assets/ilus1.jpg" alt="">
         </div>
-      </a>
+      </a> -->
       <!-- rectagle6 -->
       <a href="https://drive.google.com/file/d/1Dz27_RANENwYc3TXwd1FzXE5aquBcZPJ/view?usp=share_link" target="_blank">
         <div class="w-72 h-72 bg-slate-700 rounded-lg overflow-hidden">
@@ -51,11 +51,11 @@
         </div>
       </a>
       <!-- rectangle8 -->
-      <a href="https://drive.google.com/file/d/1B9l-4nQsGEwq9gfQkooqUf-mRsm3EUKO/view?usp=share_link" target="_blank">
+      <!-- <a href="https://drive.google.com/file/d/1B9l-4nQsGEwq9gfQkooqUf-mRsm3EUKO/view?usp=share_link" target="_blank">
         <div class="w-72 h-72 bg-slate-700 rounded-lg overflow-hidden">
           <img class="object-cover" src="./assets/ilus4.jpg" alt="">
         </div>
-      </a>
+      </a> -->
       <!-- rectangle9 -->
       <a href="https://drive.google.com/file/d/1GMGfYBhCoiQtsw3oyC7L0M29yi-vxQZu/view?usp=share_link" target="_blank">
         <div class="w-72 h-72 bg-slate-700 rounded-lg overflow-hidden">
